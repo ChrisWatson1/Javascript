@@ -465,4 +465,5 @@ function lose_check(){
     }catch(err){
         addText("testing", "function lose_check failed");
       }
+  
       }
